@@ -10,11 +10,11 @@
 ## 🔗 Links
 
 ### Live Application
-- **Frontend:** [Your Vercel URL]
-- **Backend API:** [Your Railway/Render URL]
+- **Frontend:** [Deploy to Vercel - see DEPLOYMENT.md]
+- **Backend API:** [Deploy to Railway/Render - see DEPLOYMENT.md]
 
 ### Repository
-- **GitHub:** [Your Repository URL]
+- **GitHub:** https://github.com/rogerSuperBuilderAlpha/test-2-sononet45-one-shot
 
 ## ✅ Requirements Checklist
 

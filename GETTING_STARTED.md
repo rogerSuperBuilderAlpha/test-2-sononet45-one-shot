@@ -24,10 +24,10 @@ node --version
 
 ```bash
 # Clone the repo
-git clone <your-repository-url>
+git clone https://github.com/rogerSuperBuilderAlpha/test-2-sononet45-one-shot.git
 
 # Navigate into the directory
-cd test-2
+cd test-2-sononet45-one-shot
 ```
 
 ### Step 2: Install Dependencies

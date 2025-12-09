@@ -36,8 +36,8 @@ This is a **complete, production-ready system** that uses GPT-4 Vision to automa
 
 ```bash
 # 1. Clone and install
-git clone <your-repo-url>
-cd test-2
+git clone https://github.com/rogerSuperBuilderAlpha/test-2-sononet45-one-shot.git
+cd test-2-sononet45-one-shot
 npm run install:all
 
 # 2. Configure backend

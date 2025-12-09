@@ -40,9 +40,9 @@ This application streamlines the TTB label verification process by using AI to e
 
 ## 🚀 Demo
 
-**Live Application**: [Your deployed URL here]
+**Live Application**: [Deploy to get URL - see DEPLOYMENT.md]
 
-**Repository**: [Your GitHub repository URL here]
+**Repository**: https://github.com/rogerSuperBuilderAlpha/test-2-sononet45-one-shot
 
 ### Sample Screenshots
 
